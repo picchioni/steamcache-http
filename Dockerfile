@@ -1,7 +1,7 @@
 FROM nginx:alpine
 MAINTAINER SteamCache.Net Team <team@steamcache.net>
 
-COPY overlay/ /
+COPY . /
 
 VOLUME [ "/data" ]
 
