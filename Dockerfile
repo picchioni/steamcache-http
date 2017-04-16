@@ -7,4 +7,4 @@ VOLUME [ "/data" ]
 
 EXPOSE 80
 
-ENTRYPOINT [ "steamcache-generic" ]
+ENTRYPOINT [ "steamcache-http" ]
