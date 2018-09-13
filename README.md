@@ -1,6 +1,6 @@
 # Game Download Cache Docker Container
 
-### Introduction
+#### Introduction
 
 This docker container provides a caching proxy server for game download content. This will drastically reduce internet bandwidth consumption for any network with multiple gaming PCs connected.
 
